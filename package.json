@@ -6,7 +6,7 @@
   "type": "module",
   "homepage": "https://shark-2000.github.io/spend_wisely_api",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "shark-2000",
   "license": "ISC",
