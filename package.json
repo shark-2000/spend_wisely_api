@@ -1,0 +1,21 @@
+{
+  "name": "spend_wisely",
+  "version": "1.0.0",
+  "description": "budget monitoring app",
+  "main": "index.js",
+  "type": "module",
+  "homepage": "https://shark-2000.github.io/spend_wisely_api",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "shark-2000",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+  
+}
